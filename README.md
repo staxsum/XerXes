@@ -11,10 +11,8 @@ Original source code(leaked): [Pastebin](https://pastebin.com/aWZMbjSU)
 
 ## Installation & Usage
 
-### CLONE
-```
-git clone https://github.com/staxsum/XerXes.git
-```
+### CLONE ME
+Download or clone this repo
 
 ---
 
